@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hola, soy Agustin</h1>
 
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3E5aGVvcmk0MGpjbmJobWMxbWI5OGM0M3Fid2dkcDhmMXk5Ymx1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" width ="350px"/>
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3E5aGVvcmk0MGpjbmJobWMxbWI5OGM0M3Fid2dkcDhmMXk5Ymx1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" width ="300px"/>
 
 **Desarrollador Full Stack en busca de nuevas oportunidades**
 
